@@ -1,0 +1,40 @@
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\bin\Debug\cric_buzz.exe.config
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\bin\Debug\cric_buzz.exe
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\bin\Debug\cric_buzz.pdb
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.csproj.AssemblyReference.cache
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.main_page.resources
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.Properties.Resources.resources
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.csproj.GenerateResource.cache
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.exe
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.pdb
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.login.resources
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.news.resources
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.p1.resources
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.videos.resources
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.a1.resources
+C:\Users\Muhammad Umair Aslam\Desktop\cric_buzz\cric_buzz\obj\Debug\cric_buzz.admin_login.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.csproj.AssemblyReference.cache
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.a1.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.admin_login.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.login.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.main_page.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.news.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.p1.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.Properties.Resources.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.videos.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.csproj.GenerateResource.cache
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.csproj.CoreCompileInputs.cache
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.exe
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.pdb
+F:\cric_buzz\cric_buzz\bin\Debug\cric_buzz.exe.config
+F:\cric_buzz\cric_buzz\bin\Debug\cric_buzz.exe
+F:\cric_buzz\cric_buzz\bin\Debug\cric_buzz.pdb
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.search_player.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.SplashForm.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.search_team.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.all_player.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.all_team.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.match_search.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.live_match.resources
+F:\cric_buzz\cric_buzz\obj\Debug\cric_buzz.upcoming.resources
